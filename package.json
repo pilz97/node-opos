@@ -1,0 +1,25 @@
+{
+  "name": "node-opos",
+  "version": "1.0.0",
+  "description": "package to communicate with microsoft point of service devices via .net wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilz97/node-opos.git"
+  },
+  "keywords": [
+    "opos"
+  ],
+  "author": "stefan pilz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pilz97/node-opos/issues"
+  },
+  "homepage": "https://github.com/pilz97/node-opos#readme",
+  "dependencies": {
+    "ffi-napi": "^4.0.3"
+  }
+}
