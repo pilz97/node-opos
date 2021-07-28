@@ -1,6 +1,6 @@
 {
   "name": "node-opos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "package to communicate with microsoft point of service devices via .net wrapper",
   "main": "index.js",
   "scripts": {
